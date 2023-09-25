@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Work№7\bin\Debug\net6.0\Work№7.deps.json
+C:\Users\student\source\repos\Work№7\bin\Debug\net6.0\Work№7.dll
+C:\Users\student\source\repos\Work№7\bin\Debug\net6.0\Work№7.pdb
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\Work№7.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\Work№7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\Work№7.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\Work№7.AssemblyInfo.cs
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\Work№7.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\Work№7.dll
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\refint\Work№7.dll
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\Work№7.pdb
+C:\Users\student\source\repos\Work№7\obj\Debug\net6.0\ref\Work№7.dll
